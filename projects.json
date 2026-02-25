@@ -1,0 +1,39 @@
+{
+  "owner": "GNAIAAAC LLC",
+  "support_email": "ssgpt6@aol.com",
+  "updated": "2026-02-22",
+  "projects": [
+    {
+      "id": "earnai-shorts-scripts",
+      "name": "EarnAI Shorts Script Service",
+      "type": "service",
+      "delivery": "48 hours",
+      "packages": ["Basic $50", "Standard $100", "Pro $150"],
+      "status": "live"
+    },
+    {
+      "id": "creator-hook-library",
+      "name": "Hook Library (Digital Download)",
+      "type": "digital_product",
+      "status": "coming_soon"
+    },
+    {
+      "id": "brand-copy-pack",
+      "name": "Brand + Landing Page Copy Pack",
+      "type": "service",
+      "status": "available"
+    },
+    {
+      "id": "ai-business-setup",
+      "name": "Simple Business AI Setup (FAQ + Email templates)",
+      "type": "service",
+      "status": "available"
+    },
+    {
+      "id": "affiliate-tools",
+      "name": "Tools We Recommend (Affiliate Hub)",
+      "type": "affiliate",
+      "status": "coming_soon"
+    }
+  ]
+}
