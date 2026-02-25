@@ -1,0 +1,13 @@
+{
+  "owner": "GNAIAAAC LLC",
+  "support_email": "ssgpt6@aol.com",
+  "updated": "2026-02-24",
+  "projects": [
+    { "name": "AI Branding + Landing Copy Pack", "type": "service", "status": "available" },
+    { "name": "AI Resume + Portfolio Upgrade", "type": "service", "status": "available" },
+    { "name": "AI Email/Proposal Writing", "type": "service", "status": "available" },
+    { "name": "AI Automation Templates (Download)", "type": "digital_product", "status": "coming_soon" },
+    { "name": "AI Marketing Playbook (Download)", "type": "digital_product", "status": "coming_soon" },
+    { "name": "Affiliate Tools Hub", "type": "affiliate", "status": "coming_soon" }
+  ]
+}
