@@ -1,2 +1,16 @@
-# shanta4100-gnaiaaac-quickearn
-To become the world's most trusted, automated, and multi-lingual AI media ecosystem—bridging the gap between raw data and actionable human insight through the GN-AI Global Intelligence &amp; Creative Network™.
+# GNAIAAAC QuickEarn Hub
+
+Public storefront website for quick-earning offers (EarnAI + services).
+Operated by GNAIAAAC LLC.
+
+## Deploy
+- Works as static files (no build)
+- Vercel preset: Other
+- Root: ./
+
+## Stripe
+Replace:
+REPLACE_WITH_STRIPE_BASIC
+REPLACE_WITH_STRIPE_STANDARD
+REPLACE_WITH_STRIPE_PRO
+with your Stripe Payment Links.
