@@ -8,7 +8,11 @@
       "name": "EarnAI Shorts Script Service",
       "type": "service",
       "delivery": "48 hours",
-      "packages": ["Basic $50", "Standard $100", "Pro $150"],
+      "packages": [
+        {"name": "Basic", "price": 50},
+        {"name": "Standard", "price": 100},
+        {"name": "Pro", "price": 150}
+      ],
       "status": "live"
     },
     {
